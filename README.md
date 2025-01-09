@@ -4,9 +4,8 @@ Username:
 
 Michaelshadell@whiteboy.music
 
-Domain: 
-
-whiteboy.music
+Domain: whiteboy.music
+Michaelinto@whiteboy.music
 
 <!--https://www.instagram.com/michaelshadell025?igsh=ZHVyYzdneGZobG5u 
 michaelshadell02@proto.me
